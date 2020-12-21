@@ -69,7 +69,7 @@ async function monitorPrice() {
       inputTokenSymbol: 'ETH',
       inputTokenAddress: '0x971Ea6f3aCA12Fcc5E78187a0BC87346dDA74667',
       outputTokenSymbol: 'MKR',
-      outputTokenAddress: '0x971Ea6f3aCA12Fcc5E78187a0BC87346dDA74667',
+      outputTokenAddress: '0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2',
       inputAmount: web3.utils.toWei('1', 'ETHER')
     })
 
@@ -77,7 +77,7 @@ async function monitorPrice() {
       inputTokenSymbol: 'ETH',
       inputTokenAddress: '0x971Ea6f3aCA12Fcc5E78187a0BC87346dDA74667',
       outputTokenSymbol: 'DAI',
-      outputTokenAddress: '0x971Ea6f3aCA12Fcc5E78187a0BC87346dDA74667',
+      outputTokenAddress: '0x6b175474e89094c44da98b954eedeac495271d0f',
       inputAmount: web3.utils.toWei('1', 'ETHER')
     })
 
